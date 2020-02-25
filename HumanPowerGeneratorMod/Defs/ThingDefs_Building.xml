@@ -45,7 +45,7 @@
 	  <li Class="CompProperties_Forbiddable"/>
       <li Class="CompProperties_Power">
         <compClass>Humanpowergeneratormod.HPGMP</compClass>
-        <basePowerConsumption>-500</basePowerConsumption>
+        <basePowerConsumption>-350</basePowerConsumption>
         <transmitsPower>true</transmitsPower>
       </li>
       <li Class="CompProperties_Breakdownable"/>
@@ -53,7 +53,7 @@
     </comps>
 	<hasInteractionCell>True</hasInteractionCell>
 	<interactionCellOffset>(0,0,0)</interactionCellOffset>
-	
+
     <terrainAffordanceNeeded>Medium</terrainAffordanceNeeded>
     <designationCategory>Power</designationCategory>
     <designationHotKey>Misc3</designationHotKey>
@@ -63,9 +63,9 @@
     </researchPrerequisites>
     <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
   </ThingDef>
-  
-  
-  
-  
-  
+
+
+
+
+
 </Defs>

@@ -17,8 +17,6 @@ namespace Humanpowergeneratormod
     }
 
 
-
-
     public class HPGMcyclecomp : ThingComp
     {
         public CompProperties_HPGM Props
